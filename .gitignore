@@ -1,0 +1,26 @@
+# Ignore eveything so repository can be used in game instance
+/*
+
+# Add directories with soure code
+!config/
+!defaultconfigs/
+!kubejs/
+!mods/panorama/
+!packmode/
+!panoramas/
+!scripts/
+
+# Add files in main directory
+!.gitattributes
+!.gitignore
+!LICENSE
+!packmode_picker.bat
+!panorama.dat
+!README.md
+
+# Specific exclusion
+config/jade
+config/jei/world
+config/embeddium-fingerprint.json
+config/embeddium-mixins.properties
+config/embeddium-options.json
